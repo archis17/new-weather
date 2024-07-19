@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/new-weather/static/css/main.f5813a88.css",
+    "main.css": "/new-weather/static/css/main.5dca3b5a.css",
     "main.js": "/new-weather/static/js/main.1e44fe1a.js",
     "static/media/normal.jpg": "/new-weather/static/media/normal.cb3ef1cdff85f53b9462.jpg",
     "static/media/20-25.jpg": "/new-weather/static/media/20-25.f5dca11a0f2f34ab68f4.jpg",
     "static/media/cold.jpg": "/new-weather/static/media/cold.a6aa1fca8b30bd7940bc.jpg",
     "static/media/warm.jpg": "/new-weather/static/media/warm.0c64c9121ef2a6840028.jpg",
     "index.html": "/new-weather/index.html",
-    "main.f5813a88.css.map": "/new-weather/static/css/main.f5813a88.css.map",
+    "main.5dca3b5a.css.map": "/new-weather/static/css/main.5dca3b5a.css.map",
     "main.1e44fe1a.js.map": "/new-weather/static/js/main.1e44fe1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5813a88.css",
+    "static/css/main.5dca3b5a.css",
     "static/js/main.1e44fe1a.js"
   ]
 }
